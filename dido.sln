@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32901.215
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "dido", "dido\dido.csproj", "{724A627D-740E-470C-962A-3B06D9775251}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{724A627D-740E-470C-962A-3B06D9775251}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{724A627D-740E-470C-962A-3B06D9775251}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{724A627D-740E-470C-962A-3B06D9775251}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{724A627D-740E-470C-962A-3B06D9775251}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B1DDE3DC-B398-4640-8722-533BA239FC25}
+	EndGlobalSection
+EndGlobal
